@@ -4,11 +4,11 @@
   "description": "end-to-end Testing of different E-Commerce websites Using Cypress",
   "main": "index.js",
   "scripts": {
-    "test": "npm run cypress"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/UMAR6545/cypress-automation.git"
+    "url": "git+https://UMAR6545@github.com/UMAR6545/cypress-automation.git"
   },
   "author": "",
   "license": "ISC",
@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/UMAR6545/cypress-automation#readme",
   "devDependencies": {
-    "cypress": "^8.6.0"
+    "cypress": "^12.7.0"
   }
 }
